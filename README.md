@@ -24,7 +24,8 @@ Do not:
 
 ## Assets 
 ### Logos 
-* Available via logos.zip file in this repo
+* [Download the .zip file here](https://github.com/valory-xyz/press-kit/files/14344186/logos.zip), the individual logo files are numbered in descending order of preference.
+
 ![Logo spacing](https://github.com/valory-xyz/press-kit/assets/106149667/e37de9e0-f44d-41b9-a093-61d25b5432b8)
 
 ### Fonts
