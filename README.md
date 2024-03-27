@@ -1,4 +1,4 @@
-# press-kit
+# valory-press-kit
 This Press Kit summarizes our Brand Guidelines (inc. logos) and Information about Valory (e.g. for Press Releases)
 
 ![styleguide](https://github.com/valory-xyz/press-kit/assets/106149667/23a48530-3152-443d-bd63-b9b3c5021828)
