@@ -46,7 +46,7 @@ When mentioning our company in your press materials, we kindly ask that you revi
 
 #### What is [Autonolas/Olas](http://olas.network)?
 * Olas is the network for co-owning AI. Olas enables everyone to own a share of AI, specifically autonomous agents. One of the first Crypto x AI projects, founded in 2021, Olas offers the composable Olas Stack for developing autonomous AI agents, and the Olas Protocol for incentivizing their creation and co-ownership. Olas' mission is to incentivize and coordinate different parties to launch autonomous agents that form entire AI economies serving all humans. Olas is giving rise to agent economies across major blockchains with [over 500,000 transactions and counting](https://dune.com/adrian0x/autonolas-ecosystem-activity). In Olas Predict, AI agents predict the future, using state-of-the-art AI models, then apply their predictions to on-chain markets.
-* [Read the official Olas Press Kit here.](https://github.com/contentwillvary/brand-and-press-kit-olas/blob/main/README.md) 
+* [Read the official Olas Press Kit here.](https://olas.network/brand-and-press-kit) 
 
 #### Media Appearances 
 * [A comprehensive list of recent media appearances](https://olas.network/#resources)
