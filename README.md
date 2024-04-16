@@ -39,24 +39,14 @@ When mentioning our company in your press materials, we kindly ask that you revi
 
 ### Key information
 #### Introduction
-* Context: Valory is a research and deployment company at the intersection of crypto and AI. Specifically, the premier creator of open-source frameworks for co-owned AI.
-* Mission: to enable communities, organizations, and countries to co-own AI systems, beginning with decentralized autonomous agents. Read more [here](https://www.valory.xyz/post/co-owned-ai).
-* Background: Valory is the VC-backed team of engineers, researchers, and commercial executors that co-founded the [Olas DAO^](https://olas.network/), contributes to the Olas stack, and built the first services using it. Valory is the pioneer of [co-owned AI](https://co-owned.ai), the expert in decentralized off-chain systems for DAOs. We collaborate with those interested in decentralizing & owning their own apps.
-* Useful links: [Website](https://www.valory.xyz/), [Twitter](), [LinkedIn](), [Github]()
+* Valory is a research and deployment company at the intersection of crypto and AI. Specifically, the premier creator of open-source frameworks for co-owned AI. Valory's mission is to enable communities, organizations, and countries to co-own AI systems, beginning with decentralized autonomous agents. Read more [here](https://www.valory.xyz/post/co-owned-ai). Valory is the VC-backed team of engineers, researchers, and commercial executors that co-founded the [Olas DAO^](https://olas.network/), contribute to the Olas stack, and built the first services using it. Valory is the pioneer of [co-owned AI](https://co-owned.ai), the expert in decentralized off-chain systems for DAOs. We collaborate with those interested in creating their own autonomous agent-based apps and economies.
+* Useful links: [Website](https://www.valory.xyz/), [Twitter](https://twitter.com/valoryag), [LinkedIn](https://www.linkedin.com/company/valoryag), [Github](https://github.com/valory-xyz)
 
 ^Autonolas is now known as Olas, for short.
-#### Statistics
-* [Olas](http://olas.network)
-  * Crypto's ocean of services. The permissionless blockchain protocol for registering, running and securing open-source, decentralized and ownable off-chain services.
-  * Olas is live on Ethereum, Gnosis, Polygon, Arbitrum and Solana, with more chains to come…
-  * Olas services have generated [350k+ transactions and counting](https://dune.com/adrian0x/autonolas-ecosystem-activity), based on cutting-edge autonomous agent technology. 
-  * Valory built some of the first off-chain services on the network: [Contribute, Governatooorr, Prediction Agents, Mechs, Autonomous Keeper Service, shorts.wtf, Price Oracle, APY Oracle, El Collectooorr, and more]((http://olas.network)).
-  * There are now [340+ services](https://dune.com/adrian0x/autonolas-ecosystem-activity) in the ecosystem, including ones arising from collaborations with Gnosis Chain, Solana, Balancer, Ceramic, DeFi Wonderland, Orbis, Connext, The Keep3r Network, Postmint, Nevermined, Algovera, and Cow Protocol.
-* [Open Autonomy](https://docs.autonolas.network/)
-  * Open-source framework for developing decentralized and ownable off-chain services.
-* [Propel](https://propel.valory.xyz)
-  * The fastest way to get a decentralized, off-chain service to market.
-  * A subscription service blending human and software services, to suit any organization size.
+
+#### What is [Autonolas/Olas](http://olas.network)?
+* Olas is the network for co-owning AI. Olas enables everyone to own a share of AI, specifically autonomous agents. One of the first Crypto x AI projects, founded in 2021, Olas offers the composable Olas Stack for developing autonomous AI agents, and the Olas Protocol for incentivizing their creation and co-ownership. Olas' mission is to incentivize and coordinate different parties to launch autonomous agents that form entire AI economies serving all humans. Olas is giving rise to agent economies across major blockchains with [over 500,000 transactions and counting](https://dune.com/adrian0x/autonolas-ecosystem-activity). In Olas Predict, AI agents predict the future, using state-of-the-art AI models, then apply their predictions to on-chain markets.
+* [Read the official Olas Press Kit here.](https://github.com/contentwillvary/brand-and-press-kit-olas/blob/main/README.md) 
 
 #### Media Appearances 
 * [A comprehensive list of recent media appearances](https://olas.network/#resources)
