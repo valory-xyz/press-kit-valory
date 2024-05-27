@@ -5,7 +5,7 @@ This Press Kit summarizes our Brand Guidelines (inc. logos) and Information abou
 
 ## Valory Brand Guidelines 
 
-The "Valory" name, the Valory logo, the "Olas" and “Propel” brands, and other Valory trademarks, are property of Valory AG (aka Valory), considered Offerings subject to [our Terms](https://valory.xyz/terms), meaning you may use them only as described therein. 
+The "Valory" name, the Valory logo, the "Olas", “Propel” and "Pearl" brands, and other Valory trademarks, are property of Valory AG (aka Valory), considered Offerings subject to [our Terms](https://valory.xyz/terms), meaning you may use them only as described therein. 
 
 These guidelines are intended to help our partners, grant recipients, sponsors, customers, developers, consultants, publishers, and any other third parties understand how to use and display our trademarks and copyrighted work in their own assets and materials.
 
@@ -45,7 +45,7 @@ When mentioning our company in your press materials, we kindly ask that you revi
 ^Autonolas is now known as Olas, for short.
 
 #### What is [Autonolas/Olas](http://olas.network)?
-* Olas is the network for co-owning AI. Olas enables everyone to own a share of AI, specifically autonomous agents. One of the first Crypto x AI projects, founded in 2021, Olas offers the composable Olas Stack for developing autonomous AI agents, and the Olas Protocol for incentivizing their creation and co-ownership. Olas' mission is to incentivize and coordinate different parties to launch autonomous agents that form entire AI economies serving all humans. Olas is giving rise to agent economies across major blockchains with [over 500,000 transactions and counting](https://dune.com/adrian0x/autonolas-ecosystem-activity). In Olas Predict, AI agents predict the future, using state-of-the-art AI models, then apply their predictions to on-chain markets.
+* Olas is the network for co-owning AI. Olas enables everyone to own a share of AI, specifically autonomous agents. One of the first Crypto x AI projects, founded in 2021, Olas offers the composable Olas Stack for developing autonomous AI agents, and the Olas Protocol for incentivizing their creation and co-ownership. Olas' mission is to incentivize and coordinate different parties to launch autonomous agents that form entire AI economies serving all humans. Olas is giving rise to agent economies across major blockchains. Check [the Olas website](https://olas.network/) to see how many hundreds of thousands of transactions have been made. In Olas Predict, AI agents predict the future, using state-of-the-art AI models, then apply their predictions to on-chain markets.
 * [Read the official Olas Press Kit here.](https://olas.network/brand-and-press-kit) 
 
 #### Media Appearances 
