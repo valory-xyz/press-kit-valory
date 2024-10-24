@@ -57,5 +57,9 @@ Oaksprout | CPO | Oak has been active in a number of DAOs, making significant co
 Gemma | Head of Operations | Gemma is a serial entrepreneur, selected for Jumpstart’s top 1% of UK early-careerists. She has been founding and consulting for innovative businesses and charities since 2015. As Valory’s first team member and a founding member at Olas, she has established Valory's operations, playing a pivotal role in its wider success. She has a degree in modern languages from the University of Edinburgh. | Serial entrepreneur, Jumpstart’s top 1% of UK early-careerists. Prev 8+ years in consulting. | [Twitter](https://twitter.com/contentwillvary) [LinkedIn](https://www.linkedin.com/in/gemma-cwv/) [Headshot](https://drive.google.com/file/d/1c-bET-MR35lJSPh3benVZQH3kCescsUe/view?usp=sharing) |
 Ralph | Head of Business Development | Ralph is the Managing Partner of Dudley Pond Ventures. He successfully exited in July 2022 from an AI-driven content management technology company. | Managing Partner of Dudley Pond Ventures, exited an AI-driven content management technology company in 2022. | [Twitter](https://x.com/rpahlmeyer) [LinkedIn](https://www.linkedin.com/in/pahlmeyer/) [Headshot](https://drive.google.com/file/d/1diCDORYTMC-oa6n44t9E3Gd7hJ4dPplE/view?usp=drive_link)| 
 
+The team’s expertise has research depth via 9 PhDs and spans commercial, product, engineering, marketing, research, operations and more. 
+
+Other key team members have held senior roles in project and engineering at Facebook, Google, Ava Labs, Huawei, SberBank, Fetch.ai, Revolut, PwC, JP Morgan, Accenture, Microsoft Research Cambridge, and more.
+
 ## Further Questions
 * If you have any questions not answered here, please reach out to us at [admin@valory.xyz](mailto:admin@valory.xyz).
