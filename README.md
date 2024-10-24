@@ -45,7 +45,10 @@ When mentioning our company in your press materials, we kindly ask that you revi
 ^Autonolas is now known as Olas, for short.
 
 #### What is [Autonolas/Olas](http://olas.network)?
-* [Read the official Olas Press Kit here.](https://olas.network/brand-and-press-kit) 
+* [Read the official Olas Press Kit here.](https://olas.network/brand-and-press-kit)
+
+#### Has Valory raised equity financing in the past? 
+Yes, [Valory raised a $4 million Seed round in 2021](https://www.valory.xyz/post/autonomous-services-to-power-next-gen-apps-for-crypto-users-and-daos).
 
 #### Biographies
 
