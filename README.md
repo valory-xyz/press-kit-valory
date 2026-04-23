@@ -48,8 +48,9 @@ When mentioning our company in your press materials, we kindly ask that you revi
 #### What is [Autonolas/Olas](http://olas.network)?
 * [Read the official Olas Press Kit here.](https://olas.network/brand-and-press-kit)
 
-#### Has Valory raised equity financing in the past? 
-Yes, [Valory raised a $4 million Seed round in 2021](https://www.valory.xyz/post/autonomous-services-to-power-next-gen-apps-for-crypto-users-and-daos).
+#### Has Valory raised funding in the past? 
+* [Valory raised a $4 million equity Seed round in 2021](https://www.valory.xyz/post/autonomous-services-to-power-next-gen-apps-for-crypto-users-and-daos).
+* [Valory raised a $13.8 million OTC round in 2024](https://olas.network/blog/olas-announces-the-agent-app-store-after-core-contributor-raises-13-8m-led-by-1kx).
 
 #### Biographies
 
