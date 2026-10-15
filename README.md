@@ -37,6 +37,8 @@ Do not:
 ## Information about Valory & Press Releases 
 When mentioning our company in your press materials, we kindly ask that you review the following information.
 
+**Press enquiries:** please contact [press@valory.xyz](mailto:press@valory.xyz).
+
 ### Key information
 #### Introduction
 * Valory is a research and deployment company at the intersection of crypto and AI. Specifically, the premier creator of open-source frameworks for co-owned AI. Valory's mission is to enable communities, organizations, and countries to co-own AI systems, beginning with decentralized autonomous agents. Read more [here](https://www.valory.xyz/post/co-owned-ai). Valory is the VC-backed team of engineers, researchers, and commercial executors that co-founded the [Olas DAO^](https://olas.network/), contribute to the Olas Protocol and Olas Stack, and built the first agents using Olas.
@@ -65,4 +67,4 @@ The team’s expertise has research depth via 9 PhDs and spans commercial, produ
 Other key team members have held senior roles in project and engineering at Facebook, Google, Ava Labs, Huawei, SberBank, Fetch.ai, Revolut, PwC, JP Morgan, Accenture, Microsoft Research Cambridge, and more.
 
 ## Further Questions
-* If you have any questions not answered here, please reach out to us at [admin@valory.xyz](mailto:admin@valory.xyz).
+* For press enquiries, or any questions not answered here, please reach out to us at [press@valory.xyz](mailto:press@valory.xyz).
